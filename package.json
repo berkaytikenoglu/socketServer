@@ -1,7 +1,7 @@
 {
-  "name": "flutter_video_streaming_server",
+  "name": "ARMOYUServer",
   "version": "1.0.0",
-  "description": "Flutter Video Streaming Server Side Code",
+  "description": "ARMOYU Chat Server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MuhammedAlmaz/Flutter-Video-Streaming.git"
+    "url": "git+https://github.com/aramizdakioyuncu/armoyu_desktop.git"
   },
   "keywords": [
     "Flutter",
@@ -18,12 +18,12 @@
     "Video",
     "Streaming"
   ],
-  "author": "Muhammed ALMAZ",
+  "author": "Berkay TIKENOGLU",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MuhammedAlmaz/Flutter-Video-Streaming/issues"
+    "url": "https://github.com/aramizdakioyuncu/armoyu_desktop/issues"
   },
-  "homepage": "https://github.com/MuhammedAlmaz/Flutter-Video-Streaming#readme",
+  "homepage": "https://github.com/aramizdakioyuncu/armoyu_desktop#readme",
   "dependencies": {
     "express": "^4.21.1",
     "socket.io": "^3.1.2"
